@@ -4,7 +4,7 @@ Machine learning algorithms that can adapt to new data
 # Tuning the Baseline Trading Algorithm
 
 * The cumulative products of the initial strategy returns could be presented by the following chart:
-![Short Window = 4, Long Window = 100, Period of Traning Data = 3 months ] (.Pictures/4-100_3-mont.png)
+![Short Window = 4, Long Window = 100, Period of Traning Data = 3 months ] (Pictures/4-100_3-mont.png)
 
 * We can observe that by the end of the period  strategy returns are ahead of actual returns by 0.1 with overall accuracy of the model 55 %.
 
